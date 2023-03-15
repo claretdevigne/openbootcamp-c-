@@ -1,0 +1,15 @@
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/content.csproj.AssemblyReference.cache
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/content.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/content.AssemblyInfoInputs.cache
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/content.AssemblyInfo.cs
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/content.csproj.CoreCompileInputs.cache
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/bin/Debug/net7.0/content
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/bin/Debug/net7.0/content.deps.json
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/bin/Debug/net7.0/content.runtimeconfig.json
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/bin/Debug/net7.0/content.dll
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/bin/Debug/net7.0/content.pdb
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/content.dll
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/refint/content.dll
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/content.pdb
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/content.genruntimeconfig.cache
+/Users/mian/Desktop/ob-c#/3-estructura-de-datos/ejercicio-1/obj/Debug/net7.0/ref/content.dll
