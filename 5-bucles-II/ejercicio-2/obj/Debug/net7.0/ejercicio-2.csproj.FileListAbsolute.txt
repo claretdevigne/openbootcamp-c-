@@ -1,0 +1,15 @@
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/ejercicio-2.csproj.AssemblyReference.cache
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/ejercicio-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/ejercicio-2.AssemblyInfoInputs.cache
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/ejercicio-2.AssemblyInfo.cs
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/ejercicio-2.csproj.CoreCompileInputs.cache
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/bin/Debug/net7.0/ejercicio-2
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/bin/Debug/net7.0/ejercicio-2.deps.json
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/bin/Debug/net7.0/ejercicio-2.runtimeconfig.json
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/bin/Debug/net7.0/ejercicio-2.dll
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/bin/Debug/net7.0/ejercicio-2.pdb
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/ejercicio-2.dll
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/refint/ejercicio-2.dll
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/ejercicio-2.pdb
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/ejercicio-2.genruntimeconfig.cache
+/Users/mian/Desktop/ob-c#/5-bucles-II/ejercicio-2/obj/Debug/net7.0/ref/ejercicio-2.dll
