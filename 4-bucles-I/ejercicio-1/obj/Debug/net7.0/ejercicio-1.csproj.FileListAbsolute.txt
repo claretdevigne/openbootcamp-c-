@@ -1,0 +1,15 @@
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/bin/Debug/net7.0/ejercicio-1
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/bin/Debug/net7.0/ejercicio-1.deps.json
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/bin/Debug/net7.0/ejercicio-1.runtimeconfig.json
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/bin/Debug/net7.0/ejercicio-1.dll
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/bin/Debug/net7.0/ejercicio-1.pdb
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/ejercicio-1.csproj.AssemblyReference.cache
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/ejercicio-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/ejercicio-1.AssemblyInfoInputs.cache
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/ejercicio-1.AssemblyInfo.cs
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/ejercicio-1.csproj.CoreCompileInputs.cache
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/ejercicio-1.dll
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/refint/ejercicio-1.dll
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/ejercicio-1.pdb
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/ejercicio-1.genruntimeconfig.cache
+/Users/mian/Desktop/ob-c#/4-bucles-I/ejercicio-1/obj/Debug/net7.0/ref/ejercicio-1.dll
